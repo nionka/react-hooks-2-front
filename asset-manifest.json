@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/react-hooks-2-front/static/css/main.9d5b29c0.chunk.css",
+    "main.js": "/react-hooks-2-front/static/js/main.41898ef5.chunk.js",
+    "main.js.map": "/react-hooks-2-front/static/js/main.41898ef5.chunk.js.map",
+    "runtime-main.js": "/react-hooks-2-front/static/js/runtime-main.def97249.js",
+    "runtime-main.js.map": "/react-hooks-2-front/static/js/runtime-main.def97249.js.map",
+    "static/js/2.0ee25fbb.chunk.js": "/react-hooks-2-front/static/js/2.0ee25fbb.chunk.js",
+    "static/js/2.0ee25fbb.chunk.js.map": "/react-hooks-2-front/static/js/2.0ee25fbb.chunk.js.map",
+    "static/js/3.4f580194.chunk.js": "/react-hooks-2-front/static/js/3.4f580194.chunk.js",
+    "static/js/3.4f580194.chunk.js.map": "/react-hooks-2-front/static/js/3.4f580194.chunk.js.map",
+    "index.html": "/react-hooks-2-front/index.html",
+    "static/css/main.9d5b29c0.chunk.css.map": "/react-hooks-2-front/static/css/main.9d5b29c0.chunk.css.map",
+    "static/js/2.0ee25fbb.chunk.js.LICENSE.txt": "/react-hooks-2-front/static/js/2.0ee25fbb.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.def97249.js",
+    "static/js/2.0ee25fbb.chunk.js",
+    "static/css/main.9d5b29c0.chunk.css",
+    "static/js/main.41898ef5.chunk.js"
+  ]
+}
